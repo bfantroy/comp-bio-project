@@ -1,4 +1,10 @@
 # Comp Bio project template
+# Dating the ancestor of SARS-CoV-2
+
+Author: Berry Fantroy
+
+A reproducible molecular clock analysis of 24
+SARS-CoV-2 genomes, for BIOL 5800.
 
 This repository is a starting point for your own computational biology
 project.
